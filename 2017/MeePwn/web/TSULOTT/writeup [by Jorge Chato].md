@@ -9,10 +9,10 @@
 ---
 
 # Writeups
-![](../../../../res/Screenshot_20170716_184808.png)
+![](https://github.com/bl4ckpr15m/CTF-Writeups/blob/master/img/Screenshot_20170716_184808.png)
 
 ## Think simple
-![](../../../../res/Screenshot_20170714_204246.png)
+![](https://github.com/bl4ckpr15m/CTF-Writeups/blob/master/img/Screenshot_20170714_204246.png)
 - Lets check the source code from the web.
 - Here we can see a comment,
     ```HTML
@@ -163,8 +163,8 @@ Our only chance is generate a completely random object and encoded with base64.
     
 ## Win the lottery
 Paste the output into the form and voilà:
-> ```
-    MeePwnCTF{__OMG!!!__Y0u_Are_Milli0naire_N0ww!!___}
-  ```
+```
+MeePwnCTF{__OMG!!!__Y0u_Are_Milli0naire_N0ww!!___}
+```
 
-![](../../../../res/Screenshot_20170716_184808.png)
+![](https://github.com/bl4ckpr15m/CTF-Writeups/blob/master/img/Screenshot_20170715_000809.png)
