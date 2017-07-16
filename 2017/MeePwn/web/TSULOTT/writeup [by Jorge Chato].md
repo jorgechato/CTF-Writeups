@@ -2,9 +2,7 @@
 
 **100 pts**
 
-> Who Wants to Be a Millionaire? Join My LOTT and Win JACKPOTTTT!!!
-
-> Remote: [128.199.190.23:8001](128.199.190.23:8001)
+> Who Wants to Be a Millionaire? Join My LOTT and Win JACKPOTTTT!!! <br/> <br/> Remote: [128.199.190.23:8001](http://128.199.190.23:8001)
 
 ---
 
@@ -18,7 +16,7 @@
     ```HTML
     <!-- GET is_debug=1 -->
     ```
-    mmmm... why not [128.199.190.23:8001?is_debug=1](128.199.190.23:8001?is_debug=1).
+    mmmm... why not [128.199.190.23:8001?is_debug=1](http://128.199.190.23:8001?is_debug=1).
 - Awesome! now we can read the server code, it is written in PHP.
 
 ```php
