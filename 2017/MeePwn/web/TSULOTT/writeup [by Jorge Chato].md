@@ -161,8 +161,6 @@ Our only chance is generate a completely random object and encoded with base64.
     
 ## Win the lottery
 Paste the output into the form and voilà:
-```
-MeePwnCTF{__OMG!!!__Y0u_Are_Milli0naire_N0ww!!___}
-```
+### MeePwnCTF{__OMG!!!__Y0u_Are_Milli0naire_N0ww!!___}
 
 ![](https://github.com/bl4ckpr15m/CTF-Writeups/blob/master/img/Screenshot_20170715_000809.png)
